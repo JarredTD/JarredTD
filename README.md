@@ -5,4 +5,3 @@ Feel free to reach out to me if you want to collaborate on any projects.
 ## Resources
 * [Resume Guide](https://docs.google.com/document/d/1Lw-OVOPElq_oxpv1d6sVVHcsDmvKItVa/edit?usp=sharing&ouid=103919124245036911033&rtpof=true&sd=true)
 * [Interesting Articles](resources/Articles.md)
-* [Project Ideas](resources/Projects.md)
